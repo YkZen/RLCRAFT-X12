@@ -1,0 +1,13 @@
+StoneLeafMound,-73,-66,56,65
+WoodWallRemains,-66,-38,59,67
+StonePlantMound2,-31,-18,212,224
+StonePlantMound1,-7,-1,-28,-22
+ClayWaterMound1,14,24,-31,-20
+StonePlantMound4,-81,-74,-47,-40
+StoneLeafMound,34,41,-39,-30
+StonePlantMound1,45,51,65,71
+StoneBoulder,57,66,113,122
+ShrineSmallEarth,156,168,-7,5
+StonePlantMound4,178,185,-11,-4
+RLCraft_BasicCaveSpider,230,230,325,325
+RLCraft_UndergroundRuin1,224,233,322,331
