@@ -1,0 +1,3 @@
+StonePlantMound4,-1560,-1553,2559,2566
+StonePlantBoulder,-1596,-1586,2593,2603
+StonePlantMound,-1790,-1785,2598,2603

@@ -1,0 +1,7 @@
+StonePlantMound2,-1365,-1352,2526,2538
+RLCraft_DecentSpider,-1257,-1257,2520,2520
+RLCraft_UndergroundRuin3,-1259,-1251,2517,2525
+StoneLeafMound,-1435,-1426,2471,2478
+P_WizardTower,-1455,-1425,2470,2500
+StonePlantMound,-1409,-1404,2436,2441
+StonePlantBoulder,-1524,-1514,2518,2528

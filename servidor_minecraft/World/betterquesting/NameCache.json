@@ -1,3 +1,14 @@
 {
-  "nameCache:9": {}
+  "nameCache:9": {
+    "0:10": {
+      "name:8": "YkZen",
+      "isOP:1": 0,
+      "uuid:8": "ce035b92-03af-3b0b-bb9e-096b24cfd1f9"
+    },
+    "1:10": {
+      "name:8": "Furwncisco",
+      "isOP:1": 0,
+      "uuid:8": "d3533b8c-e835-370b-a7ee-91e6e4a53dca"
+    }
+  }
 }

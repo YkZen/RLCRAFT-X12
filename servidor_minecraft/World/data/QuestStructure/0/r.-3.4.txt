@@ -1,0 +1,8 @@
+StonePlantMound4,-1547,-1540,2408,2415
+RLCraft_BasicSkeleton,-1599,-1599,2498,2498
+RLCraft_UndergroundRuin1,-1602,-1593,2495,2504
+RLCraft_DecentSpider,-1617,-1617,2424,2424
+RLCraft_UndergroundRuin2,-1622,-1612,2422,2429
+StonePlantMound3,-1630,-1619,2442,2451
+SmallOutpost,-1643,-1621,2527,2557
+StonePlantMound1,-1652,-1646,2548,2554
