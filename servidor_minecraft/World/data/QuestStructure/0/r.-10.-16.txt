@@ -1,0 +1,14 @@
+RLCraft_DecentSpider,-5629,-5629,-8287,-8287
+RLCraft_UndergroundRuin3,-5634,-5626,-8289,-8281
+ClayWaterMound,-5592,-5585,-8281,-8273
+StoneLeafMound,-5597,-5588,-8241,-8234
+RLCraft_SmallTown,-5578,-5507,-8306,-8231
+StonePlantMound1,-5544,-5538,-8344,-8338
+DinosaurSkull,-5581,-5570,-8357,-8338
+StonePlantMound,-5549,-5544,-8408,-8403
+StonePlantMound4,-5572,-5565,-8218,-8211
+RLCraft_PlainsCamp,-5606,-5560,-8221,-8182
+BlazeSpawnerCrystal,-5463,-5457,-8220,-8214
+SmallWoodenCottage,-5464,-5456,-8329,-8318
+RLCraft_SmallUndergroundSkeleton,-5411,-5403,-8331,-8323
+BrickHenge,-5420,-5404,-8338,-8322

@@ -1,0 +1,10 @@
+Tree_Oak_TheMushroomOak_v3,-5710,-5660,-8318,-8259
+RLCraft_DecentSpider,-5680,-5680,-8213,-8213
+RLCraft_UndergroundRuin2,-5685,-5675,-8218,-8211
+StoneBoulder,-5651,-5642,-8327,-8318
+StonePlantMound,-5695,-5690,-8385,-8380
+StonePlantMound3,-5667,-5658,-8386,-8375
+ClayWaterMound,-5663,-5655,-8382,-8375
+StonePlantBoulder,-5854,-5844,-8273,-8263
+StonePlantMound2,-5667,-5655,-8430,-8417
+StonePlantMound,-5846,-5841,-8206,-8201

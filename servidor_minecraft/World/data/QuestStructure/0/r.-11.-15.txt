@@ -1,0 +1,9 @@
+StonePlantMound1,-5686,-5680,-8175,-8169
+StonePlantMound3,-5719,-5708,-8136,-8127
+StonePlantMound1,-5720,-5714,-8121,-8115
+StonePlantMound,-5835,-5830,-8127,-8122
+StonePlantMound3,-5847,-5836,-8129,-8120
+StonePlantBoulder,-5702,-5692,-8101,-8091
+StonePlantMound3,-5736,-5727,-8095,-8084
+StonePlantMound3,-5746,-5735,-8101,-8092
+StonePlantMound,-5652,-5647,-8069,-8064

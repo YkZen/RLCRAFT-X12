@@ -47,3 +47,16 @@ MesoMazePath,-587,-585,1018,1020
 MesoMazePath,-587,-585,1015,1017
 MesoMazePath,-590,-588,1015,1017
 SnakeTemple,-601,-571,979,1025
+RLCraft_SmallUndergroundSkeleton,-673,-665,875,883
+RLCraft_UndergroundFarm,-729,-686,901,943
+SmallWoodenCottage1,-727,-721,776,787
+StonePlantMound4,-920,-913,734,741
+StonePlantMound,-804,-799,757,762
+RLCraft_SmallUndergroundSkeleton,-675,-667,669,677
+StonePlantMound4,-645,-638,661,668
+UndergroundCultChamber,-642,-610,620,662
+StonePlantMound1,-549,-543,632,638
+StonePlantMound1,-811,-805,623,629
+StonePlantMound,-730,-725,613,618
+StonePlantMound2,-678,-665,606,618
+StoneLeafMound,-875,-868,835,844

@@ -49,3 +49,6 @@ MesoMazePath,-282,-280,908,910
 MesoMazePath,-279,-277,914,916
 MesoMazePath,-282,-280,917,919
 SnakeTemple,-312,-266,897,927
+FallenPalmTree,-441,-431,829,833
+RLCraft_BasicSpider,-441,-441,820,820
+RLCraft_UndergroundRuin1,-444,-435,817,826

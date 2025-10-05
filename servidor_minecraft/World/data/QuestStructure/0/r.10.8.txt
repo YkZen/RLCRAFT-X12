@@ -1,0 +1,7 @@
+StonePlantMound3,5620,5629,4460,4471
+StonePlantBoulder,5585,5595,4436,4446
+ShrineSmallAir,5564,5572,4447,4455
+UndergroundTreeoid,5570,5596,4412,4435
+StonePlantMound2,5540,5552,4301,4314
+StonePlantMound3,5468,5477,4357,4368
+StonePlantBoulder,5621,5631,4290,4300
