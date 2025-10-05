@@ -513,3 +513,57 @@
 [01:26:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:27:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:27:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:29:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:30:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:31:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:20] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:32:20] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:32:20] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:32:20] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:32:20] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[01:32:20] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[01:32:20] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2859,mcp@9.42
+[01:32:20] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[01:32:20] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:32:20] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[01:32:21] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:32:21] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[01:32:21] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:32:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:32:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Furwncisco[/10.147.19.167:55819] logged in with entity id 20173 at (-225.5, 80.0, 246.5)
+[01:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Furwncisco joined the game
+[01:32:21] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:32:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:32:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> asd
+[01:33:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> No hay skin
+[01:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> que extraño...
+[01:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> que tal te va?
+[01:33:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> hay lag?
+[01:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> Sí
+[01:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> tienes lag?
+[01:34:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Furwncisco has made the advancement [Monster Hunter]
+[01:34:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> Tengo lag
+[01:34:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:34:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> yo te veo normal
+[01:35:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> Debe ser mi internet
+[01:35:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:35:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> de hecho ya tienes 4 barras
+[01:35:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> estabas con 1
+[01:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> cuando entraste
+[01:36:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Furwncisco fell from a high place
+[01:36:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:36:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> Ahora va normal
+[01:37:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> Listo!!!
+[01:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> GRACIAS!
+[01:37:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:37:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> ENTONCES EN UNOS MOMENTOS INICIAMOS O MAÑANA SEGUN TU ZONA HORARIA
+[01:38:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> EN ARG SON LAS 22:39
+[01:38:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> EN ARG SON LAS 22:30
+[01:38:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Furwncisco> Sí, 22:39
+[01:38:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <YkZen> EXACTO
