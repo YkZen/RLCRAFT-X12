@@ -1,0 +1,5 @@
+RLCraft_DecentCaveSpider,-1836,-1836,-1618,-1618
+RLCraft_UndergroundRuin2,-1838,-1831,-1623,-1613
+ShrineSmallAir,-1938,-1930,-1619,-1611
+WoodWallRemains,-1614,-1606,-1553,-1525
+P_RuinedHouse,-1737,-1712,-1904,-1887

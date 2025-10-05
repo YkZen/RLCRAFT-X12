@@ -1,0 +1,7 @@
+DinosaurSkull,-1820,-1801,-1466,-1455
+ShrineSmallFire,-1873,-1863,-1468,-1458
+RLCraft_DecentCaveSpider,-1765,-1765,-1406,-1406
+RLCraft_UndergroundRuin2,-1767,-1760,-1411,-1401
+SmallWoodenCottage2,-1941,-1933,-1512,-1504
+StonePlantBoulder,-1816,-1806,-1370,-1360
+DinosaurSkull,-1931,-1912,-1384,-1373

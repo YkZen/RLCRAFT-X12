@@ -1,4 +1,113 @@
 {
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-10-05 05:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-10-05 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-10-05 05:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:iron_battleaxe": {
+    "criteria": {
+      "has_iron": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-10-05 05:47:27 +0000",
+      "deep_ocean": "2025-10-05 05:29:28 +0000",
+      "beaches": "2025-10-05 05:26:22 +0000",
+      "jungle_hills": "2025-10-05 05:52:42 +0000",
+      "taiga": "2025-10-05 05:42:59 +0000",
+      "redwood_taiga": "2025-10-05 05:45:32 +0000",
+      "redwood_taiga_hills": "2025-10-05 05:42:53 +0000",
+      "ocean": "2025-10-05 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-10-05 05:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-10-05 05:39:59 +0000"
@@ -11,9 +120,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
-      "entered_water": "2025-10-05 05:29:26 +0000"
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
     },
     "done": true
   },
@@ -35,15 +150,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "mujmajnkraftsbettersurvival:iron_spear": {
     "criteria": {
-      "has_book": "2025-10-05 05:32:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-10-05 05:32:43 +0000"
+      "has_iron": "2025-10-05 05:45:16 +0000"
     },
     "done": true
   },
@@ -56,6 +165,36 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-10-05 05:32:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
     },
     "done": true
   },
@@ -83,12 +222,22 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "mujmajnkraftsbettersurvival:iron_nunchaku": {
     "criteria": {
-      "deep_ocean": "2025-10-05 05:29:28 +0000",
-      "beaches": "2025-10-05 05:26:22 +0000",
-      "ocean": "2025-10-05 05:29:57 +0000"
+      "has_iron": "2025-10-05 05:45:16 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:iron_hammer": {
+    "criteria": {
+      "has_iron": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-10-05 05:45:16 +0000"
+    },
+    "done": true
   }
 }

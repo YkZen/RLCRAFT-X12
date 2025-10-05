@@ -106,3 +106,5 @@ StoneMazeEndChest,2416,2418,-451,-449
 StoneMazePath,2395,2397,-493,-491
 StoneMazeEndChest,2392,2394,-493,-491
 StoneMazePagoda,2392,2439,-493,-446
+RLCraft_BasicWitch,2284,2284,-471,-471
+RLCraft_UndergroundRuin1,2281,2290,-477,-468
