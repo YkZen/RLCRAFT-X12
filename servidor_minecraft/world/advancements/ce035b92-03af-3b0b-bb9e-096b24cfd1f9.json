@@ -1,7 +1,13 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "entered_water": "2025-10-05 01:09:16 +0000"
+      "has_string": "2025-10-05 01:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-10-05 01:38:55 +0000"
     },
     "done": true
   },
@@ -11,7 +17,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-10-05 01:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-10-05 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-10-05 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-10-05 01:09:16 +0000"
     },
@@ -20,12 +44,6 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-10-05 01:04:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2025-10-05 01:09:16 +0000"
     },
     "done": true
   },
@@ -38,6 +56,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-10-05 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-10-05 01:38:55 +0000"
     },
     "done": true
   },
