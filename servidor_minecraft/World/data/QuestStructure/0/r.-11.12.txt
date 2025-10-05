@@ -1,3 +1,4 @@
 StonePlantBoulder,-6048,-6038,6625,6635
 StoneLeafMound,-5875,-5866,6437,6444
 RLCraft_PhilbosaurusRex,-6007,-5933,6451,6484
+StonePlantMound2,-5774,-5761,6642,6654

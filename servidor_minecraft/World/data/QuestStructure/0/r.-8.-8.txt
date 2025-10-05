@@ -2,3 +2,4 @@ RLCraft_DecentSpider,-4593,-4593,-4369,-4369
 RLCraft_UndergroundRuin3,-4596,-4588,-4371,-4363
 ShrineSmallFire,-4586,-4576,-4465,-4455
 ShrineSmallWater,-4546,-4538,-4401,-4393
+UndergroundCultChamber,-4479,-4437,-4201,-4169

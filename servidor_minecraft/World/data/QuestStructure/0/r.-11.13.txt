@@ -79,3 +79,4 @@ StoneMazeEndChest,-6055,-6053,6873,6875
 StoneMazePath,-6058,-6056,6843,6845
 StoneMazeEndChest,-6055,-6053,6843,6845
 StoneMaze,-6088,-6053,6843,6878
+P_LargeShip,-6095,-6077,6874,6934
